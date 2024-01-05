@@ -11,9 +11,9 @@ This repository is a curated list of my favorite NPM packages that I find essent
 
 | Package Name | Identifier | Description | NPM Link |
 |--------------|------------|-------------|----------|
-| ExampleName1 | example-identifier-1 | Brief description of what this package does. | [NPM](https://www.npmjs.com/package/example-identifier-1) |
-| ExampleName2 | example-identifier-2 | Brief description of what this package does. | [NPM](https://www.npmjs.com/package/example-identifier-2) |
-| ExampleName3 | example-identifier-3 | Brief description of what this package does. | [NPM](https://www.npmjs.com/package/example-identifier-3) |
+| React Icons | react-icons | Many icons very easy to use | [NPM](https://www.npmjs.com/package/react-icons) |
+| React Router Dom | react-router-dom | Integrate navigation and internal links. | [NPM](https://www.npmjs.com/package/react-router-dom) |
+| Hamburger React | hamburger-react | Very well animated Hamburger icons for the nav. | [NPM](https://www.npmjs.com/package/example-identifier-3) |
 | ... | ... | ... | ... |
 
 > Note: Replace "ExampleName" and "example-identifier" with the actual name and identifier of the packages. Update the description and link accordingly.
